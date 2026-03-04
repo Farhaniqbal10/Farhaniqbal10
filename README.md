@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhaniqbal10" alt="farhaniqbal10" /></a> </p>
 
-- 🌱 I’m currently learning **React Js, Laravel, React Native,**
+- 🌱 I’m currently learning **GO, React Js, Laravel, React Native,**
 
 - 📫 How to reach me **farhanmaulanaiqbal10@gmail.com**
 
